@@ -1,0 +1,7 @@
+torchsummary==1.5.1
+tqdm
+tensorboard
+tensorboardx
+pandas
+efficientnet_pytorch
+torch_optimizer
