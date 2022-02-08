@@ -1,7 +1,7 @@
 # Dacon: Landmark classification
 
 #### 
-1. `git clone https://github.com/sogang-mm/landmark-dacon.git`
+1. `git clone https://github.com/glee1228/landmark_dacon.git`
 2. edit `docker-compose.yml`
     ```
     services:
