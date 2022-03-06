@@ -1,10 +1,15 @@
 # Dacon: Landmark classification
 
-Private score 2nd 0.9971
-주최 : 크라우드웍스, 피씨엔
-주관 : DACON
-https://dacon.io/competitions/official/235585/overview/description
+### Private score 2nd 0.9971
 
+* 주최 : 크라우드웍스, 피씨엔
+* 주관 : DACON
+* https://dacon.io/competitions/official/235585/overview/description
+
+<br>
+
+
+# Usage
 
 #### 
 1. `git clone https://github.com/glee1228/landmark_dacon.git`
